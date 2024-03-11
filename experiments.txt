@@ -1,0 +1,3 @@
+Classifier SVC: f1_score=0.9478920532272107
+Classifier SVC: f1_score=0.9478920532272107
+Classifier SVC: f1_score=0.9478920532272107

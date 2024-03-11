@@ -1,0 +1,9 @@
+Este problema consiste en uno de clasificación (supervisado). Donde se definen los estados de salida como "balanced" o "unbalanced".
+- No necesito probar algoritmos de regresion, aunque si me sirve conocerlos.
+
+También podría probar aprendizaje no supervisado usando algoritmos de clustering, en este caso no es necesario clasificar sus estados de salida.
+
+Todavia no entro a la parte de filtrar features, aunque las únicas realmente útiles para entender el problema son las de inercia.
+
+Me queda pendiente hacer la separación de datos más detallada,
+definir cualos son mis datos de entrenamiento y de prueba.

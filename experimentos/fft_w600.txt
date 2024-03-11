@@ -1,0 +1,8 @@
+classifier;mean
+SVC;0.9511857034945306
+SGDClassifier;0.9491210656822927
+KNeighborsClassifier;0.953150913758399
+GaussianNB;0.7933103672831437
+DecisionTreeClassifier;0.8920335662001744
+HistGradientBoostingClassifier;0.9556333166928136
+RandomForestClassifier;0.9228567596104298
